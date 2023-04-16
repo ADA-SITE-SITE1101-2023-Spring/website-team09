@@ -1,0 +1,32 @@
+body{
+	background-color: #ffffff;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.logo{
+    height: 300px;
+}
+#retrack{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+#tr{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
+.track{
+    font-weight: 600;
+    width: 210px;
+    text-decoration: none;
+    color: #a70b0b;
+    font-family: monospace;
+    text-align: center;
+    font-size: 21px;
+}
